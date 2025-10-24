@@ -2,59 +2,59 @@
 export const PRODUCTS = [
   {
     id: 1,
-    name: "Áo thun FE Basic",
-    price: 149000,
+    name: "Bộ quần áo đá banh Real Madrid trắng 2025",
+    price: 300000,
     stock: 12,
-    image: "https://picsum.photos/id/1011/800/600",
+    image: "assets/img/aotrang.png",
     description: "Áo thun cotton 100%, thoáng mát, phù hợp mọi hoạt động."
   },
   {
     id: 2,
-    name: "Bình giữ nhiệt Inox 500ml",
-    price: 199000,
+    name: "Bộ quần áo đá banh Real Madrid đen 2025",
+    price: 300000,
     stock: 8,
-    image: "https://picsum.photos/id/1060/800/600",
-    description: "Giữ nóng/lạnh đến 8 giờ, lớp vỏ sơn tĩnh điện chống trầy."
+    image: "assets/img/aoden.png",
+    description: "Áo thun cotton 100%, thoáng mát, phù hợp mọi hoạt động."
   },
   {
     id: 3,
-    name: "Sổ tay chấm bi A5",
-    price: 89000,
+    name: "Bộ quần áo đá banh Real Madrid cam 2025",
+    price: 300000,
     stock: 20,
-    image: "https://picsum.photos/id/24/800/600",
-    description: "Giấy dày 100gsm, bìa dẻo, phù hợp ghi chép học tập."
+    image: "assets/img/aocam.png",
+    description: "Áo thun cotton 100%, thoáng mát, phù hợp mọi hoạt động."
   },
   {
     id: 4,
-    name: "Tai nghe In-ear",
-    price: 299000,
+    name: "Bộ quần áo đá banh Real Madrid trắng 2024",
+    price: 300000,
     stock: 5,
-    image: "https://picsum.photos/id/250/800/600",
-    description: "Âm trầm ấm, có micro đàm thoại, dây chống rối."
+    image: "assets/img/aotrang2024.png",
+    description: "Áo thun cotton 100%, thoáng mát, phù hợp mọi hoạt động."
   },
    {
     id: 5,
-    name: "Tai nghe In-ear",
-    price: 299000,
+    name: "Bộ quần áo đá banh Real Madrid xanh đen 2024",
+    price: 300000,
     stock: 5,
-    image: "https://picsum.photos/id/560/800/600",
-    description: "Âm trầm ấm, có micro đàm thoại, dây chống rối."
+    image: "assets/img/aoxanhden.png",
+    description: "Áo thun cotton 100%, thoáng mát, phù hợp mọi hoạt động."
   },
    {
     id: 6,
-    name: "Tai nghe In-ear",
-    price: 299000,
+    name: "Giày Nike Zoom Mercurial Vapor 15 Academy TF",
+    price: 500000,
     stock: 5,
-    image: "https://picsum.photos/id/274/800/600",
-    description: "Âm trầm ấm, có micro đàm thoại, dây chống rối."
+    image: "assets/img/NikeZoom.png",
+    description: "Giày nike chất liệu tốt."
   },
    {
     id: 7,
-    name: "Tai nghe In-ear",
-    price: 299000,
+    name: "Bóng Đá C1",
+    price: 350000,
     stock: 5,
-    image: "https://picsum.photos/id/354/800/600",
-    description: "Âm trầm ấm, có micro đàm thoại, dây chống rối."
+    image: "assets/img/bongc1.png",
+    description: "Bóng đá chất lượng cao, phù hợp cho mọi trận đấu."
   }
 
 ];

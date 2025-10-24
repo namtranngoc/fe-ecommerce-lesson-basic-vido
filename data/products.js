@@ -55,6 +55,30 @@ export const PRODUCTS = [
     stock: 5,
     image: "assets/img/bongc1.png",
     description: "Bóng đá chất lượng cao, phù hợp cho mọi trận đấu."
+  },
+  {
+    id: 8,
+    name: "Găng Tay Thủ Môn Adidas Predator Pro",
+    price: 400000,
+    stock: 10,
+    image: "assets/img/gantayadidas.png",
+    description: "Găng tay thủ môn Adidas chất lượng cao, độ bám tốt."
+  },
+  {
+    id : 9,
+    name: "Bộ Quần Áo Tập Luyện Real Madrid Xanh Lá 2025",
+    price: 280000,
+    stock: 15,
+    image: "assets/img/aoxanhla.png",
+    description: "Bộ quần áo tập luyện Real Madrid xanh lá, thoáng mát, phù hợp cho mọi hoạt động thể thao."
+  },
+  {
+    id : 10,
+    name: "Mũ Lưỡi Trai Real Madrid 2025",
+    price: 150000,
+    stock: 25,
+    image: "assets/img/murealmadrid.png",
+    description: "Mũ lưỡi trai Real Madrid chính hãng, thiết kế thời trang, bảo vệ khỏi nắng."
   }
 
 ];
